@@ -1,1 +1,33 @@
+# Figma-specific
+*.fig         # Figma files
+*.tmp         # Temporary files
+*.bak         # Backup files
 
+# macOS system files
+.DS_Store
+
+# Node.js files
+node_modules/
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Other potential temporary files
+*.swp
+*.swo
+
+# Build directories (if applicable)
+dist/
+build/
+out/
