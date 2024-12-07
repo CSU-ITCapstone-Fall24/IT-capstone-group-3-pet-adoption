@@ -1,1 +1,1 @@
-# IT-capstone-group-3-pet-adoption
+# pet-adoption-project
